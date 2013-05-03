@@ -1,5 +1,6 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
-
+<%@ taglib prefix="debug" uri="https://github.com/figarocms/web-debug-tag"%>
+<debug:debugModel/>
 <!--
 PetClinic :: a Spring Framework demonstration
 -->

@@ -332,7 +332,11 @@
 			<version>${dandelion.datatables.version}</version>
 		</dependency>
 
-
+        <dependency>
+            <groupId>fr.figarocms</groupId>
+            <artifactId>web-debug-tag</artifactId>
+            <version>1.5</version>
+        </dependency>
 	</dependencies>
 
 	<!-- all Maven plugin versions are mentioned in order to guarantee the build reproducibility in the long term -->
