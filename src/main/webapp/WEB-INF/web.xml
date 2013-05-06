@@ -13,7 +13,8 @@ http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
             org.springframework.aop.*,net.sf.ehcache.DiskStorePathManager,org.springframework.context.support.*,
             __spring.*,__sitemesh.*,org.apache.jasper.*,org.apache.catalina.*,org.eclipse.jetty.webapp.Context,
             net.sf.ehcache.CacheManager,org.apache.commons.dbcp.BasicDataSource,org.springframework.beans.factory.support.*,
-            org.eclipse.jetty.server.*,org.eclipse.jetty.servlet.*,org.eclipse.jetty.webapp.*</param-value>
+            org.eclipse.jetty.server.*,org.eclipse.jetty.servlet.*,org.eclipse.jetty.webapp.*,
+            org.springframework.validation.*,java.util.UnmodifiableRandomAccessList</param-value>
     </context-param>
     <context-param>
         <param-name>spring.profiles.active</param-name>

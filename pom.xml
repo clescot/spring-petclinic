@@ -335,7 +335,7 @@
         <dependency>
             <groupId>fr.figarocms</groupId>
             <artifactId>web-debug-tag</artifactId>
-            <version>1.5</version>
+            <version>1.6</version>
         </dependency>
 	</dependencies>
 
